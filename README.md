@@ -1,4 +1,4 @@
 # hello-world
-Starting for wireless programming.
+Starting to program for wireless .
 
-Wireless programming is the stars. Aim for some moon.
+Programming wireless  is the stars. Aim for some moon.
